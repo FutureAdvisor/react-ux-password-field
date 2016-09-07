@@ -38,7 +38,9 @@
     "nodejs": ">=0.11.x"
   },
   "dependencies": {
-    "lodash.debounce": "^3.1.1",
+    "lodash.debounce": "^3.1.1"
+  },
+  "peerDependencies": {
     "react": ">=0.13.0"
   },
   "devDependencies": {
